@@ -1,5 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=plyush1993&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # :memo: Contact
 Please send me any comment, suggestion or question you may have (Mr. Ivan Plyushchenko :man_scientist:): 
