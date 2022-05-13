@@ -1,9 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993)](https://github.com/anuraghazra/github-readme-stats)
 
+# 🔭 Intro
+Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices.
 
-
-# :memo: Contact
+# 📫 Contact
 Please send me any comment, suggestion or question you may have (Dr. Ivan Plyushchenko :man_scientist:): 
 - :e-mail: <plyushchenko.ivan@gmail.com>
 - [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png">](https://orcid.org/0000-0003-3883-4695)
