@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔭 Intro
-Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices. My CV is available [here](https://github.com/plyush1993/cv/blob/main/CV.pdf).
+Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices. My CV is available [here](https://github.com/plyush1993/cv/blob/main/CVlong.pdf).
 
 # 📫 Contact
 Please send me any comment, suggestion or question you may have (Dr. Ivan Plyushchenko :man_scientist:): 
