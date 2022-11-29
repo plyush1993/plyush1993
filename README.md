@@ -2,7 +2,7 @@
 Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices. My CV is available [here](https://github.com/plyush1993/cv/blob/main/CVlong.pdf).
 These are some of the major technologies/frameworks/tools that I use or have worked with in the past:
 
-<img title="R" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"><img title="Caret" alt="Caret" width="40px" src="https://evolvingprogrammer.files.wordpress.com/2017/03/tmp_edit-manual-153-594.jpg">
+<img title="dplyr" alt="dplyr" width="40px" src="https://dplyr.tidyverse.org/logo.png"><img title="Tidyverse" alt="Tidyverse" width="40px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"><img title="ggplot2" alt="ggplot2" width="40px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png"><img title="xcms" alt="xcms" width="40px" src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/xcms/xcms.png"><img title="MSnbase" alt="Msnbase" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/master/MSnbase/MSnbase.png"><img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif">
 
 # 📫 Contact
 Please send me any comment, suggestion or question you may have (Dr. Ivan Plyushchenko :man_scientist:): 
