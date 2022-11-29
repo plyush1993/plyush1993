@@ -1,5 +1,6 @@
 ### 🔭 Intro
-Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices.          
+Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices.   
+
 [![](https://img.shields.io/badge/My_CV_is_available-here-red.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)               
 These are some of the major technologies/frameworks/tools that I use:
 
