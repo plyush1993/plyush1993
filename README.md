@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🔭 Intro
 Hi there! This is Ivan Plyushchenko. I am now a postdoctoral research fellow at Chemistry Department in Lomonosov Moscow State University. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research in samples with complex matrices. My CV is available [here](https://github.com/plyush1993/cv/blob/main/CVlong.pdf).
 
@@ -12,6 +9,10 @@ Please send me any comment, suggestion or question you may have (Dr. Ivan Plyush
 - [<img src = https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg height="15" width="15">](https://www.researchgate.net/profile/Ivan-Plyushchenko-2)
 - [<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scopus_logo.svg/2560px-Scopus_logo.svg.png height="16.4" width="50">](https://www.scopus.com/authid/detail.uri?authorId=57202386632)
 - [<img src = https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1496403635/dbpokhjtlxno6psfu5r0.png height="25" width="25">](https://publons.com/researcher/4095888/ivan-plyushchenko/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&config.timezone=Europe%2FMoscow)
 
 <!-- 
 **plyush1993/plyush1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
