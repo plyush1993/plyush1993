@@ -13,6 +13,14 @@ Please send me any comment, suggestion or question you may have (Dr. Ivan Plyush
 [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png">](https://orcid.org/0000-0003-3883-4695)
 [<img src = https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg height="15" width="15">](https://www.researchgate.net/profile/Ivan-Plyushchenko-2)
 
+<div> 
+  <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0000-0003-3883-4695"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="28" alt="ORCID" /></a>
+  <a href="https://www.researchgate.net/profile/Ivan-Plyushchenko-2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ResearchGate&color=222222&logo=ResearchGate&logoColor=00CCBB&label=" height="28" alt="RG" /></a>
+    <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
 
 ![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
