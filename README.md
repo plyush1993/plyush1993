@@ -8,11 +8,6 @@ These are some of the major technologies/frameworks/tools that I use:
 
 ### 📫 Contact
 Please send me any comment, suggestion or question you may have (Dr. Ivan Plyushchenko):    
-![](https://img.shields.io/badge/plyushchenko.ivan-@gmail.com-cyan.svg)
-<a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=ru&oi=ao"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar%20-%23F6F6F6.svg?&style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjNDI4NWY0IiBkPSJNMjU2IDQxMS4xMkwwIDIwMi42NjcgMjU2IDB6Ii8+PHBhdGggZmlsbD0iIzM1NmFjMyIgZD0iTTI1NiA0MTEuMTJsMjU2LTIwOC40NTNMMjU2IDB6Ii8+PGNpcmNsZSBmaWxsPSIjYTBjM2ZmIiBjeD0iMjU2IiBjeT0iMzYyLjY2NyIgcj0iMTQ5LjMzMyIvPjxwYXRoIGZpbGw9IiM3NmE3ZmEiIGQ9Ik0xMjEuMDM3IDI5OC42NjdjMjMuOTY4LTUwLjQ1MyA3NS4zOTItODUuMzM0IDEzNC45NjMtODUuMzM0czExMC45OTUgMzQuODgxIDEzNC45NjMgODUuMzM0SDEyMS4wMzd6Ii8+PC9zdmc+"></a>
-[<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png">](https://orcid.org/0000-0003-3883-4695)
-[<img src = https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg height="15" width="15">](https://www.researchgate.net/profile/Ivan-Plyushchenko-2)
-
 <div> 
   <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
   <a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
@@ -21,9 +16,9 @@ Please send me any comment, suggestion or question you may have (Dr. Ivan Plyush
     <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
-
 ![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
+
+![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
 
 <!-- 
 **plyush1993/plyush1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
