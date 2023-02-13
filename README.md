@@ -1,5 +1,5 @@
 ### 🔭 Intro
-Hi there! This is Ivan Plyushchenko. I am broadly interested in Metabolomics processing development and its application in LC-MS untargeted profiling for biomarkers research.   
+Hi there! This is Ivan Plyushchenko. I am broadly interested in Metabolomics processing pipeline development and its application in MS-based untargeted profiling.   
 
 [![](https://img.shields.io/badge/My_CV_is_available-here-red.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)               
 These are some of the major technologies/frameworks/tools that I use:
