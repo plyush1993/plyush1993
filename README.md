@@ -1,3 +1,4 @@
+<img src="d0ay00204f.jpeg" align="center" height="300" width="280">
 ### 🔭 Intro
 Hi there! This is Ivan Plyushchenko. I am broadly interested in Metabolomics processing pipeline development and its application in MS-based untargeted profiling.   
 
