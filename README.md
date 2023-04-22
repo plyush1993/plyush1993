@@ -1,5 +1,6 @@
 ### 🔭 Intro
-[![](https://img.shields.io/badge/My_CV_is_available-here-red.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)               
+[![](https://img.shields.io/badge/CV_is_available-here-339999.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)      
+
 <img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="Tidyverse" alt="Tidyverse" width="40px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> <img title="Rmarkdowm" alt="Rmarkdowm" width="40px" src="https://privefl.github.io/R-presentation/rmarkdown.png">
 
 ### 📫 Contact
@@ -11,7 +12,8 @@
     <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
+### ⚡ Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
 
@@ -26,6 +28,9 @@
 Hi there! This is Ivan Plyushchenko. I am broadly interested in Metabolomics processing pipeline development and its application in MS-based untargeted profiling.  
 Please send me any comment, suggestion or question you may have (Dr. Ivan Plyushchenko):    
 These are some of the major technologies/frameworks/tools that I use:
+![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=plyush1993&repo=OUKS&theme=merko)](https://github.com/plyush1993/OUKS)
 
 **plyush1993/plyush1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
