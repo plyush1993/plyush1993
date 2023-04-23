@@ -1,9 +1,10 @@
-### 🔭 Intro
+### :label: Intro
 [![](https://img.shields.io/badge/CV_is_available-here-339999.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)      
 
+### :computer: Tools
 <img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="Tidyverse" alt="Tidyverse" width="40px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> <img title="Rmarkdowm" alt="Rmarkdowm" width="40px" src="https://privefl.github.io/R-presentation/rmarkdown.png">
 
-### 📫 Contact
+### :email: Contact
 <div> 
   <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
   <a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
