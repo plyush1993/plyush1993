@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/CV_is_available-here-339999.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)      
 
 ### :computer: Tools
-<img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="Tidyverse" alt="Tidyverse" width="40px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> 
+<img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="dplyr" alt="dplyr" width="40px" src="https://dplyr.tidyverse.org/logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://d33wubrfki0l68.cloudfront.net/2c6239d311be6d037c251c71c3902792f8c4ddd2/12f67/css/images/hex/ggplot2.png"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> 
 
 ### :email: Contact
 <div> 
