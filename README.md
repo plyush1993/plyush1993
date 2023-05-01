@@ -16,7 +16,7 @@
 ### ⚡ Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&theme=cobalt&custom_title=Dr.%20Ivan%20Plyushchenko%20GitHub%20Stats:)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
+
 
 <!-- 
 [:octocat:](https://github.com/plyush1993)
@@ -32,6 +32,8 @@ These are some of the major technologies/frameworks/tools that I use:
 ![Metrics](https://metrics.lecoq.io/plyush1993?template=classic&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyush1993&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=plyush1993&repo=OUKS&theme=merko)](https://github.com/plyush1993/OUKS)
+
+![](https://visitor-badge.glitch.me/badge?page_id=plyush1993.visitor-badge)
 
 **plyush1993/plyush1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
