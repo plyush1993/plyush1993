@@ -6,11 +6,11 @@
 
 ### :email: Contact
 <div> 
-  <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/-2986cc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
+  <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
   <a href="https://github.com/plyush1993"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= &color=181717&logo=GitHub&logoColor=FFFFFF&label=" height="28" alt="GH" /></a>
   <a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
   <a href="https://orcid.org/0000-0003-3883-4695"><img src="https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="28" alt="ORCID" /></a>
-  <a href="https://www.researchgate.net/profile/Ivan-Plyushchenko-2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= &color=222222&logo=ResearchGate&logoColor=00CCBB&label=" height="28" alt="RG" /></a>
+  <a href="https://www.researchgate.net/profile/Ivan-Plyushchenko-2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= &color=39c9b2&logo=ResearchGate&logoColor=ffffff&label=" height="28" alt="RG" /></a>
   <a href="https://www.semanticscholar.org/author/I.-Plyushchenko/96267372"><img src="https://img.shields.io/static/v1?style=for-the-badge&message= &color=ffdd77&logo=SemanticScholar&logoColor=2a90dd&label=" height="28" alt="SSc" /></a>
   <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&message= &logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57202386632" target="_blank"><img src="https://img.shields.io/badge/-f48c08?style=for-the-badge&logo=Scopus&logoColor=ffffff" target="_blank"></a>  
