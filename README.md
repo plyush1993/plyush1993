@@ -12,7 +12,9 @@
   <a href="https://orcid.org/0000-0003-3883-4695"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="28" alt="ORCID" /></a>
   <a href="https://www.researchgate.net/profile/Ivan-Plyushchenko-2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Research%20Gate&color=222222&logo=ResearchGate&logoColor=00CCBB&label=" height="28" alt="RG" /></a>
   <a href="https://www.semanticscholar.org/author/I.-Plyushchenko/96267372"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Semantic%20Scholar&color=ffdd77&logo=SemanticScholar&logoColor=2a90dd&label=" height="28" alt="SSc" /></a>
-  <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/ivan-plyushchenko-3861781a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57202386632" target="_blank"><img src="https://img.shields.io/badge/-Scopus-f48c08?style=for-the-badge&logo=Scopus&logoColor=ffffff" target="_blank"></a>  
+  <a href="https://www.webofscience.com/wos/author/record/ABG-8648-2020" target="_blank"><img src="https://img.shields.io/badge/-Researcher%20ID-5E33BF?style=for-the-badge&logo=ResearcherID" target="_blank"></a>
 </div>
 
 ### ⚡ Stats
