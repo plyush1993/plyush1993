@@ -4,11 +4,12 @@
 ### :computer: Tools
 <a href="https://github.com/plyush1993/OUKS">
     <img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif">
-</a> <a href="URL_OF_YOUR_REPOSITORY_HERE">
-    <img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif">
+</a><a href="https://github.com/plyush1993/MetCorR">
+    <img title="MetCorR" alt="MetCorR" width="60px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png">
+</a><a href="https://github.com/plyush1993/ms_for_sirius">
+    <img title="ms_for_sirius" alt="ms_for_sirius" width="60px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png">
 </a>
 
-<img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="MetCorR" alt="MetCorR" width="60px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png"> <img title="ms_for_sirius" alt="ms_for_sirius" width="60px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png"> 
 ### :email: Contact
 <div> 
   <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
