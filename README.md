@@ -2,6 +2,12 @@
 [![](https://img.shields.io/badge/CV_is_available-here-EC5858.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)[![](https://img.shields.io/badge/&-there-0081C6.svg)](https://github.com/plyush1993/cv/blob/main/VisualResume.pdf)     
 
 ### :computer: Tools
+<a href="https://github.com/plyush1993/OUKS">
+    <img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif">
+</a> <a href="URL_OF_YOUR_REPOSITORY_HERE">
+    <img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif">
+</a>
+
 <img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="MetCorR" alt="MetCorR" width="60px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png"> <img title="ms_for_sirius" alt="ms_for_sirius" width="60px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png"> 
 ### :email: Contact
 <div> 
