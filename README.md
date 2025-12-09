@@ -2,8 +2,7 @@
 [![](https://img.shields.io/badge/CV_is_available-here-EC5858.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)[![](https://img.shields.io/badge/&-there-0081C6.svg)](https://github.com/plyush1993/cv/blob/main/VisualResume.pdf)     
 
 ### :computer: Tools
-<img title="OUKS" alt="OUKS" width="40px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="MetCorR" alt="MetCorR" width="40px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png"> <img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="dplyr" alt="dplyr" width="40px" src="https://dplyr.tidyverse.org/logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/519px-Ggplot2_hex_logo.png?20240522021950"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> 
-
+<img title="OUKS" alt="OUKS" width="60px" src="https://github.com/plyush1993/OUKS/blob/main/GH%20logo.gif"> <img title="MetCorR" alt="MetCorR" width="60px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png"> <img title="ms_for_sirius" alt="ms_for_sirius" width="60px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png"> 
 ### :email: Contact
 <div> 
   <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
@@ -17,6 +16,10 @@
 </div>
 
 <!--
+
+<img title="caret 2" alt="" width="40px" height="47px" src="https://assets.datacamp.com/production/course_1048/shields/original/shield_image_course_1048_20211224-1-n14gfs?1640364873"> <img title="dplyr" alt="dplyr" width="40px" src="https://dplyr.tidyverse.org/logo.png"> <img title="ggplot2" alt="ggplot2" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/519px-Ggplot2_hex_logo.png?20240522021950"> <img title="Bioc" alt="Bioc" width="40px" src="https://github.com/Bioconductor/BiocStickers/blob/3775454124ac83e2ce035f481916399d2c579d5a/Bioconductor/Bioconductor-serial-compressed.gif"> 
+
+
 ### ⚡ Stats
 [![Plyush1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=cobalt&custom_title=Ivan%20Plyushchenko%20GitHub%20Stats:)](https://github.com/anuraghazra/github-readme-stats) 
 
