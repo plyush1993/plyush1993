@@ -16,9 +16,9 @@
   <a href="https://www.webofscience.com/wos/author/record/ABG-8648-2020" target="_blank"><img src="https://img.shields.io/badge/-106491?style=for-the-badge&logo=publons" target="_blank"></a>
 </div>
 
+<!--
 ### ⚡ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=cobalt&custom_title=Ivan%20Plyushchenko%20GitHub%20Stats:)](https://github.com/anuraghazra/github-readme-stats) 
-
+[![Plyush1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=cobalt&custom_title=Ivan%20Plyushchenko%20GitHub%20Stats:)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 
 [:octocat:](https://github.com/plyush1993)
