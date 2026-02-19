@@ -6,12 +6,12 @@
   <a href="https://github.com/plyush1993/OUKS">
     <img title="OUKS" alt="OUKS" height="120" src="https://github.com/plyush1993/OUKS/raw/main/GH%20logo.gif">
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/plyush1993/MetCorR">
-    <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
-  </a>&nbsp;&nbsp;
  <a href="https://github.com/plyush1993/MetaboCensoR">
     <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/metabocensor_logo.png">
   </a>&nbsp;&nbsp;   
+  <a href="https://github.com/plyush1993/MetCorR">
+    <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/ms_for_sirius">
     <img title="ms_for_sirius" alt="ms_for_sirius" height="120" src="https://github.com/plyush1993/ms_for_sirius/raw/main/ms_for_sirius_logo.png">
   </a>&nbsp;&nbsp;
