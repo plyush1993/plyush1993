@@ -16,7 +16,7 @@
     <img title="ms_for_sirius" alt="ms_for_sirius" height="120" src="https://github.com/plyush1993/ms_for_sirius/raw/main/ms_for_sirius_logo.png">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/Metabocano">
-    <img title="Metabocano" alt="Metabocano" height="120" src="https://github.com/plyush1993/Metabocano/raw/main/sticker.png">  
+    <img title="Metabocano" alt="Metabocano" height="122" src="https://github.com/plyush1993/Metabocano/raw/main/sticker.png">  
   </a>
 </p>
 
