@@ -7,7 +7,7 @@
 <a href="https://github.com/plyush1993/MetCorR">
     <img title="MetCorR" alt="MetCorR" width="80px" src="https://github.com/plyush1993/MetCorR/blob/main/man/MetCorR_sticker.png">
 <a href="https://github.com/plyush1993/ms_for_sirius">
-    <img title="ms_for_sirius" alt="ms_for_sirius" width="80px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png">
+    <img title="ms_for_sirius" alt="ms_for_sirius" width="95px" src="https://github.com/plyush1993/ms_for_sirius/blob/main/ms_for_sirius_logo.png">
 <a href="https://github.com/plyush1993/Metabocano">
     <img title="Metabocano" alt="Metabocano" width="85px" src="https://github.com/plyush1993/Metabocano/blob/main/sticker.png">
 <a href="https://github.com/plyush1993/MetaboCensoR">
