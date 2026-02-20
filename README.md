@@ -6,9 +6,6 @@
   <a href="https://github.com/plyush1993/OUKS">
     <img title="OUKS" alt="OUKS" height="120" src="https://github.com/plyush1993/OUKS/raw/main/GH%20logo.gif">
   </a>&nbsp;&nbsp;
- <a href="https://github.com/plyush1993/MetaboCensoR">
-    <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/metabocensor_logo.png">
-  </a>&nbsp;&nbsp;   
   <a href="https://github.com/plyush1993/MetCorR">
     <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
   </a>&nbsp;&nbsp;
@@ -17,7 +14,10 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/Metabocano">
     <img title="Metabocano" alt="Metabocano" height="122" src="https://github.com/plyush1993/Metabocano/raw/main/sticker.png">  
-  </a>
+  </a>&nbsp;&nbsp; 
+  <a href="https://github.com/plyush1993/MetaboCensoR">
+    <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/metabocensor_logo.png">
+  </a>  
 </p>
 
 ### :email: Contact
