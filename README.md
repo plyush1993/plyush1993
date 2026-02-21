@@ -4,7 +4,7 @@
 ### :computer: Tools
 <p align="left">
   <a href="https://github.com/plyush1993/OUKS">
-    <img title="OUKS" alt="OUKS" height="120" src="https://github.com/plyush1993/OUKS/raw/main/GH%20logo.gif">
+    <img title="OUKS" alt="OUKS" height="120" src="https://github.com/plyush1993/OUKS/raw/main/GH%20logo.png">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/MetCorR">
     <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
