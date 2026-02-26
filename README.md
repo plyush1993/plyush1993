@@ -22,7 +22,7 @@
 
 ### :email: Contact
 <div> 
-  <a href="mailto:plyushchenko.ivan-@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
+  <a href="mailto:plyushchenko.ivan@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
   <a href="https://github.com/plyush1993"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" height="28" alt="GH" /></a>
   <a href="https://scholar.google.com/citations?user=Mz4nxtwAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
   <a href="https://www.researchgate.net/profile/Ivan-Plyushchenko-2"><img src="https://img.shields.io/badge/-39c9b2?style=for-the-badge&logo=ResearchGate&logoColor=ffffff" height="28" alt="ResearchGate" /></a>
