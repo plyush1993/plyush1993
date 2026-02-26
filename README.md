@@ -21,7 +21,6 @@
 </p>
 
 ### :email: Contact
-[<img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" />](mailto:plyushchenko.ivan@gmail.com)
 <div> 
   <a href="mailto:plyushchenko.ivan@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
   <a href="https://github.com/plyush1993"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" height="28" alt="GH" /></a>
