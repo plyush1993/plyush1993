@@ -21,14 +21,6 @@
 </p>
 
 ### :email: Contact
-<a href="mailto:plyushchenko.ivan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-plyushchenko.ivan%40gmail.com-4a9edc?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-</a>
-
-<a href="mailto:plyushchenko.ivan@gmail.com?subject=MetaboCensoR%20question&body=Hi%20Ivan%2C%0A%0A">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-4a9edc?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-</a>
-
 <div> 
   <a href="mailto:plyushchenko.ivan@gmail.com"><img src="https://img.shields.io/badge/-4a9edc?style=for-the-badge&logo=gmail" height="28" alt="Email" /></a>
   <a href="https://github.com/plyush1993"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" height="28" alt="GH" /></a>
