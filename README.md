@@ -9,8 +9,8 @@
   <a href="https://github.com/plyush1993/MetCorR">
     <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/plyush1993/ms_for_sirius">
-    <img title="ms_for_sirius" alt="ms_for_sirius" height="120" src="https://github.com/plyush1993/ms_for_sirius/raw/main/ms_for_sirius_logo.png">
+  <a href="https://github.com/plyush1993/qry4ms">
+    <img title="qry4ms" alt="ms_for_sirius" height="120" src="https://github.com/plyush1993/qry4ms/raw/main/qry4ms.png">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/Metabocano">
     <img title="Metabocano" alt="Metabocano" height="122" src="https://github.com/plyush1993/Metabocano/raw/main/sticker.png">  
