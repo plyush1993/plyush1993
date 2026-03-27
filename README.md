@@ -17,7 +17,10 @@
   </a>&nbsp;&nbsp; 
   <a href="https://github.com/plyush1993/MetaboCensoR">
     <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/metabocensor_logo.png">
-  </a>  
+  </a>&nbsp;&nbsp;  
+  <a href="https://github.com/plyush1993/OmniPeak">
+    <img title="OmiPeak" alt="OmiPeak" height="120" src="https://github.com/plyush1993/OmniPeak/raw/main/omnipeak.png">
+  </a>
 </p>
 
 ### :email: Contact
