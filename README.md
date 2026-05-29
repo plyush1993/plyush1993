@@ -1,5 +1,5 @@
 ### :label: Intro
-[![](https://img.shields.io/badge/CV_is_available-here-EC5858.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)[![](https://img.shields.io/badge/&-there-0081C6.svg)](https://github.com/plyush1993/cv/blob/main/VisualResume.pdf)     
+[![](https://img.shields.io/badge/CV_is_available-here-EC5858.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)
 
 ### :computer: Tools
 <p align="left">
@@ -41,6 +41,8 @@
 
 
 ### ⚡ Stats
+[![](https://img.shields.io/badge/CV_is_available-here-EC5858.svg)](https://github.com/plyush1993/cv/blob/main/CVlong.pdf)[![](https://img.shields.io/badge/&-there-0081C6.svg)](https://github.com/plyush1993/cv/blob/main/VisualResume.pdf)   
+
 [![Plyush1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyush1993&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=cobalt&custom_title=Ivan%20Plyushchenko%20GitHub%20Stats:)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 
