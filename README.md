@@ -10,16 +10,16 @@
     <img title="MetCorR" alt="MetCorR" height="120" src="https://github.com/plyush1993/MetCorR/raw/main/man/MetCorR_sticker.png">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/qry4ms">
-    <img title="qry4ms" alt="qry4ms" height="120" src="https://github.com/plyush1993/qry4ms/raw/main/qry4ms.png">
+    <img title="qry4ms" alt="qry4ms" height="120" src="https://github.com/plyush1993/qry4ms/raw/main/inst/www/qry4ms.png">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/plyush1993/Metabocano">
-    <img title="Metabocano" alt="Metabocano" height="122" src="https://github.com/plyush1993/Metabocano/raw/main/sticker.png">  
+    <img title="Metabocano" alt="Metabocano" height="122" src="https://github.com/plyush1993/Metabocano/raw/main/inst/www/sticker.png">  
   </a>&nbsp;&nbsp; 
   <a href="https://github.com/plyush1993/MetaboCensoR">
-    <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/metabocensor_logo.png">
+    <img title="MetaboCensoR" alt="MetaboCensoR" height="120" src="https://github.com/plyush1993/MetaboCensoR/raw/main/inst/www/metabocensor_logo.png">
   </a>&nbsp;&nbsp;  
   <a href="https://github.com/plyush1993/OmniPeak">
-    <img title="OmiPeak" alt="OmiPeak" height="120" src="https://github.com/plyush1993/OmniPeak/raw/main/omnipeak.png">
+    <img title="OmiPeak" alt="OmiPeak" height="120" src="https://github.com/plyush1993/OmniPeak/raw/main/inst/www/omnipeak.png">
   </a>
 </p>
 
